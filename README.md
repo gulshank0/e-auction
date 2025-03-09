@@ -21,14 +21,13 @@ The **e-Auction Platform** is a web-based application that enables users to part
 2. **Install Dependencies**:
    ```sh
    npm install  # For Node.js-based projects
-   pip install -r requirements.txt  # For Python-based projects
-   ```
+   
 3. **Configure Environment Variables**:
    - Create a `.env` file and add required configurations (e.g., database URL, API keys).
 4. **Run the Application**:
    ```sh
-   npm start  # For frontend
-   npm run server  # For backend
+   npm run dev  # For frontend
+   npm run dev  # For backend
    ```
 
 ## Usage
